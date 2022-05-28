@@ -6,7 +6,8 @@
 
 <h2>🚀 Demo</h2>
 
-[https://github.com/pira998/style\_transfer\_wave\_app/blob/main/Images/Screen%20Recording%202022-05-28%20at%2008.16.36.mov?raw=true](https://github.com/pira998/style_transfer_wave_app/blob/main/Images/Screen%20Recording%202022-05-28%20at%2008.16.36.mov?raw=true)
+https://user-images.githubusercontent.com/46839677/170808131-74508032-2830-431c-ba5b-01ddb8014ac8.mov
+
 
 <h2>Project Screenshots:</h2>
 
