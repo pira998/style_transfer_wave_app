@@ -1,0 +1,10 @@
+[App]
+Name = "Style Transfer App"
+Version = "1"
+Title = "Style Transfer App"
+Description = ""
+LongDescription = "about.md"
+Tags = []
+
+[Runtime]
+Module = "src.app"

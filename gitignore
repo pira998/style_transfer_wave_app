@@ -1,0 +1,7 @@
+*.pyc
+*.state
+venv/
+*__pycache__/
+*.DS_STORE
+data/mojo-pipeline/mojo2-runtime.jar
+data/mojo-pipeline/license.sig
