@@ -15,6 +15,10 @@ https://user-images.githubusercontent.com/46839677/170808131-74508032-2830-431c-
 
 <img src="https://github.com/pira998/style_transfer_wave_app/blob/main/Images/Screenshot%202022-05-28%20at%2008.16.15.png" alt="project-screenshot">
 
+<h2>How Works:</h2>
+
+<img src="https://github.com/pira998/style_transfer_wave_app/blob/abbfdf2a055065bd326dbb6b78c0945c3a1bb3ba/static/HOME.png" alt="project-screenshot">
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Setup Your Python Environment</p>
